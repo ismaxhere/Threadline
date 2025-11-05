@@ -49,3 +49,14 @@ cd Threadline
 npm install
 npm start
 
+
+## 🧑‍💻 Author
+
+**[@ismaxhere](https://github.com/ismaxhere)**  
+Built with love, coffee, and curiosity 🌿  
+_“Conversations shouldn’t vanish — they should grow.”_
+
+## 🪄 License
+MIT License © 2025 — feel free to fork, remix, and grow your own version 🌱
+
+
