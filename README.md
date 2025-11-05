@@ -33,4 +33,19 @@ Built with **React**, **Tailwind CSS**, and **Framer Motion**, it transforms tex
 |------|----------|
 | **React** | Core UI framework |
 | **Tailwind CSS** | Styling and theme system |
-|
+| **Framer Motion** | Animations and transitions |
+| **Lucide-React** | Icon library |
+| **PostCSS / Autoprefixer** | CSS optimization |
+| **React-Scripts (CRA)** | Build and development setup |
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/ismaxhere/Threadline.git
+cd Threadline
+npm install
+npm start
+
