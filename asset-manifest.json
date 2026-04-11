@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Threadline/static/css/main.d837eb90.css",
+    "main.js": "/Threadline/static/js/main.468a693a.js",
+    "index.html": "/Threadline/index.html",
+    "main.d837eb90.css.map": "/Threadline/static/css/main.d837eb90.css.map",
+    "main.468a693a.js.map": "/Threadline/static/js/main.468a693a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d837eb90.css",
+    "static/js/main.468a693a.js"
+  ]
+}
