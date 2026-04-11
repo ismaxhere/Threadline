@@ -1,7 +1,7 @@
 {
   "name": "threadline",
   "version": "1.0.0",
-  "homepage": "https://yourusername.github.io/Threadline",
+  "homepage": "https://ismaxhere.github.io/Threadline",
   "private": true,
   "dependencies": {
     "framer-motion": "^12.23.24",
